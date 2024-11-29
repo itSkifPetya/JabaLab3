@@ -2,9 +2,9 @@ package Classes;
 
 import Abstracts.Objct;
 
-public class Person extends Objct {
+public class Place extends Objct {
 
-    public Person(String name) {
+    public Place(String name) {
         super(name);
     }
 }
